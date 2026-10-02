@@ -7,7 +7,7 @@ It is written for small teams where one marketer, one developer and maybe one de
 ## How to use it
 
 - **As a document:** open [`CHECKLIST.md`](CHECKLIST.md), copy it into your project tracker and assign an owner to each section.
-- **As a GitHub issue:** copy [`.github/ISSUE_TEMPLATE/launch-qa.md`](.github/ISSUE_TEMPLATE/launch-qa.md) into your own repository. GitHub will offer it as a template when someone opens a new issue, with every item as a tickable box.
+- **As a GitHub issue:** paste the contents of `CHECKLIST.md` into a new issue in your own repository. GitHub renders every `- [ ]` line as a tickable box, so the team can track progress in one place.
 
 Not every item applies to every site. Delete what you do not need rather than ticking it blindly, and add the checks your own stack needs.
 
